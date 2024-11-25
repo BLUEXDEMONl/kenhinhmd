@@ -5,13 +5,13 @@ global.language = "id"
 //connecting 
 global.sessionName = "session"
 global.pairingCode = true // true / false
-global.pairingNumber = "2347041039367" // masukin nomor bot
+global.pairingNumber = "2349019529423" // masukin nomor bot
 global.runWith = "Panel Only"
 global.newsletterJid = "120363185390263663@newsletter"
 global.newsletterName = "𝐊𝐄𝐍𝐒𝐇𝐈𝐍 𝐃.𝐗𝐎"
 //owner
 global.ownerName = "𝗞𝗲𝗻𝘀𝗵𝗶𝗻 𝗛𝗮𝗺𝗮𝗱𝗮"
-global.nomerOwner = ["2347041039367"]
+global.nomerOwner = ["2349019529423"]
 //sosmed
 global.syt = 'https://www.youtube.com/@Kenshin'
 global.sgc = 'https://chat.whatsapp.com'
